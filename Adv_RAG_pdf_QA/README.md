@@ -85,12 +85,10 @@ RAGAS testset is limited to 1 sample by default to stay within Groq free tier TP
 Never commit your data/ folder or chroma_db/ to GitHub — add them to .gitignore
 
 ## 📸 Output Screenshots
-
 ### 🔹 Example 1
-![Output 1](124153.png)
+![Output 1](Screenshot 2026-04-07 124153.png)
 
 ### 🔹 Example 2
-![Output 2](130642.png)
-
+![Output 2](Screenshot 2026-04-07 130642.png)
 🛠️ Tech Stack
 Python · LlamaIndex · ChromaDB · LlamaParse · HuggingFace Transformers · BitsAndBytes · RAGAS · LangChain · Groq · sentence-transformers · FlagEmbedding
