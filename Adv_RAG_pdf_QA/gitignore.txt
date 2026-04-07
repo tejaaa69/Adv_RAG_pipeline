@@ -1,0 +1,23 @@
+
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Data & vectors (large or sensitive)
+data/
+chroma_db/
+*.pdf
+*.zip
+
+# Colab & system files
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Secrets / tokens
+.env
+secrets.py
